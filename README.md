@@ -1,3 +1,15 @@
+
+# Full Cicle 4.0
+
+In this challenge a blank Nest.js project was created using @nest.js/cli 
+
+The repository's policies have been adjusted to block commits right on master
+
+A workflow has been set up, the project tests will be performed whenever a PR is created
+
+---
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
